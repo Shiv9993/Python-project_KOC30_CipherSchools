@@ -1,1 +1,1 @@
-# Python-project_KOC30_CipherSchools
+# Python-project_KOC30_CipherSchool
